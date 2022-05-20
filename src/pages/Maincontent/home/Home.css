@@ -1,0 +1,23 @@
+.home-sec {
+  text-align: center;
+  background-color: #5c2e91;
+  padding: 80px 0px;
+}
+.home-sec h1 {
+  font-size: 40px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.home-sec a {
+  padding: 10px 25px;
+  background-color: #f36a2c;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 20px;
+  display: inline-block;
+}
+.home-sec a:hover {
+  color: #ffffff;
+}

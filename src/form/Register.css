@@ -1,0 +1,32 @@
+.formbody input {
+  width: 100%;
+  padding: 6px 12px;
+  height: 40px;
+  margin: 20px 0px;
+}
+.formheader {
+  background: #03787c;
+}
+
+.formcontent {
+  padding: 50px;
+  color: #ffffff;
+}
+.bodycontent {
+  padding: 0px 20px;
+}
+.star {
+  color: red;
+}
+.button {
+  align-items: center;
+  width: 30%;
+  border-radius: 10px;
+  padding: 5px;
+  background: aqua;
+  color: white;
+  font-size: 20px;
+}
+.formsec {
+  margin-top: 50px;
+}

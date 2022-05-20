@@ -1,0 +1,19 @@
+.nav-sec {
+  position: sticky;
+  top: 0;
+  background: #ffff;
+  padding: 10px 0;
+}
+
+.nav-sec a {
+  background-color: #f36a2c;
+  padding: 10px 25px;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 5px;
+  color: #ffffff;
+  display: inline-block;
+}
+.leftsec {
+  text-align: end;
+}
